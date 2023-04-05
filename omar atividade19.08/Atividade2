@@ -1,0 +1,8 @@
+class banco:
+    def init(self,Conta,cpf,limite):
+        self.Conta = Conta
+        self.cpf = cpf
+        self.limite = limite
+
+        def banco(self):
+            print(self.banco)

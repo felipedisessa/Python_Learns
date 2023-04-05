@@ -1,0 +1,3 @@
+Pergunta:
+Consegue testar todos os métodos ‘soma’, sim, não, porque?
+Sim, pois foi efetuada a soma de todos os númeross
